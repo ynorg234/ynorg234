@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ynorg234
+- I’m interested in ...
+- Javascript and Python
+I’m currently learning ...
+- More about Python
+Email: ynorg@proton.me
