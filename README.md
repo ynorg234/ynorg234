@@ -1,7 +1,1 @@
- 👋 Hi, I’m @ynorg234
- 
- Intrests:
- 
- Javascript and Python
- 
- Email: ynorg@proton.me
+i do javascript python java c++ lua c# and can do more if taught thx
